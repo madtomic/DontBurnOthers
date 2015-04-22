@@ -1,0 +1,7 @@
+name: ${project.name}
+main: net.tkausl.dontburnothers.DontBurnOthers
+version: ${project.version}
+author: tkausl
+permissions:
+    dontburnothers.ignore:
+        description: Allows lava/flint and steel usement near others

@@ -1,0 +1,5 @@
+# The range in blocks you need to keep distance in blocks
+range: 10
+# The message sent to the user when he tries to place lava or fire near another player.
+# & will be replaced with § (for colorcodes) and %other% will be replaced by the other (near) players name
+message: "&4You're too near to %other%, keep distance please!"
