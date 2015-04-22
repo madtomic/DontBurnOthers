@@ -9,7 +9,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>net.tkausl</groupId>
     <artifactId>DontBurnOthers</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <name>DontBurnOthers</name>
     
     <dependencies>
